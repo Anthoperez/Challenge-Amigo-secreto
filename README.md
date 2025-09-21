@@ -13,7 +13,7 @@ Una sencilla pero funcional aplicación web para realizar sorteos de "amigo secr
 
 Puedes ver y probar la aplicación en vivo en el siguiente enlace:
 
-**[Haz clic aquí para ver la demo en Vercel]([https://TU_URL_DE_VERCEL_AQUI](https://challenge-amigo-secreto-two-iota.vercel.app/))**
+**[Haz clic aquí para ver la demo en Vercel]([https://challenge-amigo-secreto-two-iota.vercel.app/])**
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -40,7 +40,8 @@ Si deseas ejecutar este proyecto en tu propia máquina, sigue estos sencillos pa
 
 ## 🖼️ Vista Previa de la Aplicación
 
-<img width="450" height="277" alt="amigo-secreto" src="https://github.com/user-attachments/assets/50e02f00-a2d6-4b24-bdc5-82bbf91c2fb4" />
+<img width="953" height="643" alt="image" src="https://github.com/user-attachments/assets/30322bcf-2406-416f-bc4d-a8e08e193a4d" />
+
 
 ---
 
